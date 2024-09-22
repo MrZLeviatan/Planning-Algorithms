@@ -23,7 +23,9 @@ This repository contains implementations of different process planning algorithm
 ## 📚 Table of Contents / Tabla de Contenidos
 
 1. [Features](#-features--características) / [Características](#-features--características)
-2. [Tools](#-tools--herramientas) / [Herramientas](#-tools--herramientas)
+2. [Tools](#️-tools--herramientas) / [Herramientas](#️-tools--herramientas)
+3. [Algorithms Included](#algorithms-included--algoritmos-incluidos) / [Algoritmos Incluidos](#algorithms-included--algoritmos-incluidos)
+4. 
 11. [Contribution](#contribution) / [Contribución](#contribución)
 12. [License](#license) / [Licencia](#licencia)
 13. [Contact](#contact) / [Contacto](#contacto)
@@ -59,7 +61,7 @@ This repository contains implementations of different process planning algorithm
 
 ## Algorithms Included / Algoritmos Incluidos
 
-### [FCFS (First Come First Serve]()
+### [FCFS (First Come First Serve](/FCFS/)
 The FCFS algorithm serves processes in the order in which they arrive to the system, without interruptions. It is easy to implement, but can lead to high waiting times in some cases.
 >***El algoritmo FCFS atiende los procesos en el orden en que llegan al sistema, sin interrupciones. Es fácil de implementar, pero puede llevar a tiempos de espera elevados en algunos casos.***
 
