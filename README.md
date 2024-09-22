@@ -135,7 +135,7 @@ This project is licensed under the Apache-2.0 license. See the [LICENSE](/LICENS
 
 |                                                                                                                                 Author                                                                                                                                 |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [@Nicolas C.S](https://github.com/MrZLeviatan) <br>[![Icon.jpg](https://i.postimg.cc/FsbjKxLk/Icon.jpg)](https://postimg.cc/kB4V1Kw7) <br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/MrZLeviatan) |
+| [@Nicolas C.S](https://github.com/MrZLeviatan) <br>[![Icon.jpg](https://i.postimg.cc/FsbjKxLk/Icon.jpg)](https://github.com/MrZLeviatan) <br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/MrZLeviatan) |
 
 
 ---
