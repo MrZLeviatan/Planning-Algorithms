@@ -26,11 +26,11 @@ This repository contains implementations of different process planning algorithm
 2. [Tools](#️-tools--herramientas) / [Herramientas](#️-tools--herramientas)
 3. [Algorithms Included](#-algorithms-included--algoritmos-incluidos) / [Algoritmos Incluidos](#-algorithms-included--algoritmos-incluidos)
 4. [System Requirements](#-System-Requirements--Requisitos-Sistema) / [Requisitos Sistema](#-System-Requirements--Requisitos-Sistema)
-5. [Instructions for use](#-Instructions-for-use--Intruccion-de-Uso) / [Intruccion de Uso](#-Instructions-for-use--Intruccion-de-Uso)
-6. [License]() / [Licencia]()
-7. [Authors]() / [Autores]()
-8. [Gratitude]() / [Agredecimientos]()
-9. [Contactanos]() / [Contact Us]()
+5. [Instructions for use](#️-instructions-for-use--intruccion-de-uso) / [Intruccion de Uso](#️-instructions-for-use--intruccion-de-uso)
+6. [License](#-license--licencia) / [Licencia](#-license--licencia)
+7. [Authors](#-authors--autores) / [Autores](#-authors--autores)
+8. [Gratitude](#gratitude--agredecimientos) / [Agredecimientos](#gratitude--agredecimientos)
+9. [Contactanos](#-contactanos--contact-us) / [Contact Us](#-contactanos--contact-us)
 
 
 ---
@@ -126,8 +126,8 @@ To run the scheduling algorithms included in this repository, make sure you have
 ---
 
 ## 📜 License / Licencia
-This project is licensed under the Apache-2.0 license. See the [LICENSE]() file for details.
->***Este proyecto está licenciado bajo la licencia Apache-2.0. Consulta el archivo [LICENSE]() para más detalles.***
+This project is licensed under the Apache-2.0 license. See the [LICENSE](/LICENSE) file for details.
+>***Este proyecto está licenciado bajo la licencia Apache-2.0. Consulta el archivo [LICENSE](/LICENSE) para más detalles.***
 
 ---
 
