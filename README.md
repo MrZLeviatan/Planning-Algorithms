@@ -14,7 +14,7 @@ This repository contains implementations of different process planning algorithm
 
 <p align="center">
   
-[![Algoritmo-Icono.png](https://i.postimg.cc/bwXCc4gk/Algoritmo-Icono.png)](https://postimg.cc/xcRyLxW1)
+[![Algoritmo-Icono.png](https://i.postimg.cc/bwXCc4gk/Algoritmo-Icono.png)]()
 
 </p>
 
