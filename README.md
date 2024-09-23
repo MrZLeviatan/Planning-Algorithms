@@ -109,16 +109,16 @@ To run the scheduling algorithms included in this repository, make sure you have
 ## 🛠️ Instructions for use / Intruccion de Uso
 
 1. Clone the repository:
-   >***Clonar el Reporitorio:***
+   >***Clonar el Repositorio:***
    ```bash
    git clone https://github.com/MrZLeviatan/Planning-Algorithms.git
    cd Planning-Algorithms
    ```
 2. Run an algorithm: Navigate to the directory of the algorithm you want to run and execute the corresponding Python file. For example, to run FCFS:
-   >***Ejecutar el Algoritmos: Navega al directorio del algoritmo que deseas ejecutar y ejecuta el archivo Python correspondiente. Por ejemplo, para ejecutar FCFS:***
+   >***Ejecutar los Algoritmos: Navega al directorio del algoritmo que deseas ejecutar y ejecuta el archivo Python correspondiente. Por ejemplo, para ejecutar FCFS:***
    ```bash
-   cd fcfs
-   python fcfs.py    
+   cd FCFS
+   python FCFS.py    
    ```
 3. Algorithm Customization: If you want to adjust the parameters of the algorithms (such as arrival times or process execution times), you can modify the scripts directly in your     preferred code editor.
    >***Personalización de Algoritmos: Si deseas ajustar los parámetros de los algoritmos (como los tiempos de llegada o de ejecución de los procesos), puedes modificar los           scripts directamente en tu editor de código preferido.***
