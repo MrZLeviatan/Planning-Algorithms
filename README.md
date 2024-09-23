@@ -73,23 +73,23 @@ SJF prioritizes the shortest processes. This algorithm seeks to minimize the ave
 
 ### [SRTF (Shortest Remaining Time First)](/SRTF/)
 The SRTF algorithm is a preemptive version of SJF. In this scheme, the process with the shortest remaining execution time always has priority. If a new process with a shorter duration arrives in the system, it will interrupt the running process.
-***El algoritmo SRTF es una versión preventiva de SJF. En este esquema, el proceso con el menor tiempo de ejecución restante siempre tiene prioridad. Si un nuevo proceso con una duración más corta llega al sistema, interrumpe el proceso en ejecución.***
+>***El algoritmo SRTF es una versión preventiva de SJF. En este esquema, el proceso con el menor tiempo de ejecución restante siempre tiene prioridad. Si un nuevo proceso con una duración más corta llega al sistema, interrumpe el proceso en ejecución.***
 
 ### [Priority](/Priority/)
 In priority planning, each process is assigned a priority value. Processes with higher priority are executed before those with lower priority. This algorithm can be preemptive or non-preemptive.
-***En la planificación por prioridades, cada proceso tiene un valor de prioridad asignado. Los procesos con prioridad más alta son ejecutados antes que los de menor prioridad. Este algoritmo puede ser preventivo o no preventivo.***
+>***En la planificación por prioridades, cada proceso tiene un valor de prioridad asignado. Los procesos con prioridad más alta son ejecutados antes que los de menor prioridad. Este algoritmo puede ser preventivo o no preventivo.***
 
 ### [HRN (Highest Response Ratio Next)](/HRN/)
 HRN is an improvement of the SJF algorithm to avoid penalizing processes that arrive later. A response ratio is calculated that takes into account both waiting time and execution time, favoring processes that have waited longer.
-***HRN es una mejora del algoritmo SJF para evitar la penalización de procesos que llegan más tarde. Se calcula una relación de respuesta que tiene en cuenta tanto el tiempo de espera como el tiempo de ejecución, favoreciendo a los procesos que han esperado más.***
+>***HRN es una mejora del algoritmo SJF para evitar la penalización de procesos que llegan más tarde. Se calcula una relación de respuesta que tiene en cuenta tanto el tiempo de espera como el tiempo de ejecución, favoreciendo a los procesos que han esperado más.***
 
 ### [RR (Round Robin)](/RR/)
 The Round Robin algorithm distributes CPU time among all processes equally, using time slices (quantum). It is a preventive approach that ensures that no process hogs the CPU.
-***El algoritmo Round Robin distribuye el tiempo del CPU entre todos los procesos de manera equitativa, usando intervalos de tiempo (quantum). Es un enfoque preventivo que asegura que ningún proceso acapare el CPU.***
+>***El algoritmo Round Robin distribuye el tiempo del CPU entre todos los procesos de manera equitativa, usando intervalos de tiempo (quantum). Es un enfoque preventivo que asegura que ningún proceso acapare el CPU.***
 
 ### [FMQ (Planificación Multinivel)](/FMQ/)
 Multi-level planning (FMQ) organizes processes into different queues based on their priority or type. Each queue can have its own scheduling algorithm, allowing for more flexible management of processes.
-***La planificación multinivel (FMQ) organiza los procesos en diferentes colas según su prioridad o tipo. Cada cola puede tener su propio algoritmo de planificación, permitiendo una gestión más flexible de los procesos.***
+>***La planificación multinivel (FMQ) organiza los procesos en diferentes colas según su prioridad o tipo. Cada cola puede tener su propio algoritmo de planificación, permitiendo una gestión más flexible de los procesos.***
 
 ---
 
