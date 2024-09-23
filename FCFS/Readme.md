@@ -4,18 +4,18 @@ _First Come First Server (FCFS)_
 
 </h1>
 
-is a simple, non-preemptive scheduling algorithm where processes are executed in the order they arrive. No priority is given to any process, meaning the first to arrive is the first to be executed without interruption.
->***Es un algoritmo de programación simple y no preemptivo en el que los procesos se ejecutan en el orden en que llegan. No se le da prioridad a ningún proceso, lo que significa que el primero en llegar es el primero en ejecutarse sin interrupción.***
+It is a simple, non-preemptive scheduling algorithm where processes are executed in the order they arrive. No priority is given to any process, meaning the first to arrive is the first to be executed without interruption.
+>***Es un algoritmo de programación simple y no preventivo en el que los procesos se ejecutan en el orden en que llegan. No se le da prioridad a ningún proceso, lo que significa que el primero en llegar es el primero en ejecutarse sin interrupción.***
 
 ---
 
 ## 🌟 Features / Características
-- ***Type** : Non-preemptive.
+- **Type** : Non-preemptive.
 - **Execution Order**: The process that arrives first is executed first.
 - **Advantages**: Simple to implement.
 - **Disadvantages**: Can cause long wait times for shorter processes if a longer one arrives first (convoy effect).
 
->- **Tipo**: No proventivo.
+>- **Tipo**: No preventivo.
 >- **Orden de Ejecucion**: El proceso que llega primero es el que se ejecuta primero.
 >- **Ventajas**: Sencillo de implementar.
 >- **Desventajas**: Puede causar tiempos de espera largos para procesos cortos si uno mas largo llega antes (efecto convoy).
@@ -35,13 +35,13 @@ This program implements the FCFS algorithm to simulate process scheduling. Given
 
 ---
 
-## 🛠️ Instructions for use / Intruccion de Uso
+## 🛠️ Instructions for use / Instruccion de Uso
 
 1. **Run the program**: First, ensure you have python installed on your system.
     >**Ejecute el programa**: primero, asegúrese de tener Python instalado en su sistema.    
     
     To run the FCFS script, navigate to the directory where the "FCFS.py" file is located and excute the following command in the terminal:
-    >***To run the FCFS script, navigate to the directory where the "FCFS.py" file is located and excute the following command in the terminal:***
+    >***Para ejecutar el script FCFS, navegue hasta el directorio donde se encuentra el archivo "FCFS.py" y ejecute el siguiente        comando en la terminal:***
 
     ```bash
         python FCFS.py
@@ -58,7 +58,7 @@ This program implements the FCFS algorithm to simulate process scheduling. Given
     ```
 ---
 
-## 🧩 [Programa / Program](/FCFS/FCFS.py)
+## 🧩 [Program / Programa](/FCFS/FCFS.py)
 
 ```python
 class Proceso:
