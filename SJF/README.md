@@ -15,8 +15,8 @@ It is a process scheduling algorithm in operating systems that selects the proce
 - **Advantages**: Minimizes average waiting time and turnaround time.
 - **Disadvantages**: Can cause starvation for longer processes. 
 
->- **Tipo**: No proventivo.
->- **Orden de Ejecucion**: El proceso con el tiempo de ejecution más corto se ejecuta primero.
+>- **Tipo**: No preventivo.
+>- **Orden de Ejecucion**: El proceso con el tiempo de ejecucion más corto se ejecuta primero.
 >- **Ventajas**: Minimiza el tiempo de espera y el tiempo de respuesta.
 >- **Desventajas**: Puede causar inanicion en procesos mas largos.
 
@@ -29,6 +29,7 @@ This program implements the SJF algorithm to simulate process sheduling. Given a
 - Completion time for each process.
 - Waiting time for each process.
 - Turnaround time, wich is the total time a process spends in the system.
+  
 >***Este programa implementa el algoritmo SJF para simular la programación de procesos. Dado un conjunto de procesos con sus tiempos de llegada y tiempos de ráfaga, el programa calculará:***
 >- Tiempo de finalización de cada proceso.
 >- Tiempo de espera de cada proceso.
@@ -36,13 +37,13 @@ This program implements the SJF algorithm to simulate process sheduling. Given a
 
 ---
 
-## 🛠️ Instructions for use / Intruccion de Uso
+## 🛠️ Instructions for use / Instruccion de Uso
 
 1. **Run the program**: First, ensure you have python installed on your system.
     >**Ejecute el programa**: primero, asegúrese de tener Python instalado en su sistema.    
     
     To run the SJF script, navigate to the directory where the "SJF.py" file is located and excute the following command in the terminal:
-    >***To run the SJF script, navigate to the directory where the "SJF.py" file is located and excute the following command in the terminal:***
+    >***Para ejecutar el script SJF, navegue hasta el directorio donde se encuentra el archivo "SJF.py" y ejecute el siguiente         comando en la terminal:***
 
     ```bash
         python SJF.py
@@ -60,7 +61,7 @@ This program implements the SJF algorithm to simulate process sheduling. Given a
 
 ---
 
-## 🧩 [Programa / Program](/SJF/SJF.py)
+## 🧩 [Program / Programa](/SJF/SJF.py)
 
 ```python
 class Process:
