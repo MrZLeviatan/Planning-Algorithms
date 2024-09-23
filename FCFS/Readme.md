@@ -10,15 +10,15 @@ is a simple, non-preemptive scheduling algorithm where processes are executed in
 ---
 
 ## 🌟 Features / Características
-- Type : Non-preemptive.
-- Execution Order: The process that arrives first is executed first.
-- Advantages: Simple to implement.
-- Disadvantages: Can cause long wait times for shorter processes if a longer one arrives first (convoy effect).
+- ***Type** : Non-preemptive.
+- **Execution Order**: The process that arrives first is executed first.
+- **Advantages**: Simple to implement.
+- **Disadvantages**: Can cause long wait times for shorter processes if a longer one arrives first (convoy effect).
 
->- Tipo: No proventivo.
->- Orden de Ejecucion: El proceso que llega primero es el que se ejecuta primero.
->- Ventajas: Sencillo de implementar.
->- Desventajas: Puede causar tiempos de espera largos para procesos cortos si uno mas largo llega antes (efecto convoy).
+>- **Tipo**: No proventivo.
+>- **Orden de Ejecucion**: El proceso que llega primero es el que se ejecuta primero.
+>- **Ventajas**: Sencillo de implementar.
+>- **Desventajas**: Puede causar tiempos de espera largos para procesos cortos si uno mas largo llega antes (efecto convoy).
 
 ---
 
@@ -33,6 +33,29 @@ This program implements the FCFS algorithm to simulate process scheduling. Given
 >- Tiempo de espera para cada proceso.
 >- Tiempo de retorno (o turnaround time), que es el tiempo total que un proceso pasa en el sistema.
 
+---
+
+## 🛠️ Instructions for use / Intruccion de Uso
+
+1. **Run the program**: First, ensure you have python installed on your system.
+    >**Ejecute el programa**: primero, asegúrese de tener Python instalado en su sistema.    
+    
+    To run the FCFS script, navigate to the directory where the "FCFS.py" file is located and excute the following command in the terminal:
+    >***To run the FCFS script, navigate to the directory where the "FCFS.py" file is located and excute the following command in the terminal:***
+
+    ```bash
+        python FCFS.py
+    ```
+2. The program will generate a table similar to the following:
+    >***El programa generará una tabla similar a la siguiente:***
+
+    ```bash
+`   Process | Arrival Time | Execution Time | Completion Time | Waiting Time | Turnaround Time
+    ------------------------------------------------------------------------------------------
+    P1      |      0      |       4        |        4        |      0      |       4
+    P2      |      1      |       3        |        7        |      3      |       6
+    P3      |      2      |       2        |        9        |      5      |       7
+    ```
 ---
 
 ## 🧩 [Programa / Program](/FCFS/FCFS.py)
