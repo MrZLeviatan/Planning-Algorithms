@@ -50,7 +50,7 @@ This program implements the FCFS algorithm to simulate process scheduling. Given
     >***El programa generará una tabla similar a la siguiente:***
 
     ```bash
-`   Process | Arrival Time | Execution Time | Completion Time | Waiting Time | Turnaround Time
+   Process | Arrival Time | Execution Time | Completion Time | Waiting Time | Turnaround Time
     ------------------------------------------------------------------------------------------
     P1      |      0      |       4        |        4        |      0      |       4
     P2      |      1      |       3        |        7        |      3      |       6
