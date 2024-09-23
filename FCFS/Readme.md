@@ -35,7 +35,7 @@ This program implements the FCFS algorithm to simulate process scheduling. Given
 
 ---
 
-## 🧩 [Programa / Program]()
+## 🧩 [Programa / Program](/FCFS/FCFS.py)
 
 ```python
 class Proceso:
@@ -78,7 +78,4 @@ calcular_fcfs(procesos)
 
 imprimir_resultados(procesos)
 ```
-
----
-
-
+    
