@@ -43,7 +43,7 @@ This program implements the SJF algorithm to simulate process sheduling. Given a
     >**Ejecute el programa**: primero, asegúrese de tener Python instalado en su sistema.    
     
     To run the SJF script, navigate to the directory where the "SJF.py" file is located and excute the following command in the terminal:
-    >***Para ejecutar el script SJF, navegue hasta el directorio donde se encuentra el archivo "SJF.py" y ejecute el siguiente         comando en la terminal:***
+    >***Para ejecutar el script SJF, navegue hasta el directorio donde se encuentra el archivo "SJF.py" y ejecute el siguiente comando en la terminal:***
 
     ```bash
         python SJF.py
