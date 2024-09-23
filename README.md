@@ -2,7 +2,7 @@
 
   _Planning Algorithms_
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 
 </h1>  
@@ -14,7 +14,7 @@ This repository contains implementations of different process planning algorithm
 
 <p align="center">
   
-[![Algoritmo-Icono.png](https://i.postimg.cc/bwXCc4gk/Algoritmo-Icono.png)](https://postimg.cc/xcRyLxW1)
+[![Algoritmo-Icono.png](https://i.postimg.cc/bwXCc4gk/Algoritmo-Icono.png)]()
 
 </p>
 
@@ -52,11 +52,11 @@ This repository contains implementations of different process planning algorithm
 
 - <H3> Backend:</H3>
 
-    - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    - [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
  
 - <H3>  IDEs/ Editors: </H3>
 
-    - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    - [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
 ---
@@ -135,7 +135,7 @@ This project is licensed under the Apache-2.0 license. See the [LICENSE](/LICENS
 
 |                                                                                                                                 Author                                                                                                                                 |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [@Nicolas C.S](https://github.com/MrZLeviatan) <br>[![Icon.jpg](https://i.postimg.cc/FsbjKxLk/Icon.jpg)](https://postimg.cc/kB4V1Kw7) <br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/MrZLeviatan) |
+| [@Nicolas C.S](https://github.com/MrZLeviatan) <br>[![Icon.jpg](https://i.postimg.cc/FsbjKxLk/Icon.jpg)](https://github.com/MrZLeviatan) <br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/MrZLeviatan) |
 
 
 ---
