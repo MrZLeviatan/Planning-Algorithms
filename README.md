@@ -67,7 +67,7 @@ This repository contains implementations of different process planning algorithm
 The FCFS algorithm serves processes in the order in which they arrive to the system, without interruptions. It is easy to implement, but can lead to high waiting times in some cases.
 >***El algoritmo FCFS atiende los procesos en el orden en que llegan al sistema, sin interrupciones. Es fácil de implementar, pero puede llevar a tiempos de espera elevados en algunos casos.***
 
-### [SJF (Shortest Job First)](/SJF/)
+### [SJF (Shortest Job First))](/SJF/)
 SJF prioritizes the shortest processes. This algorithm seeks to minimize the average waiting time, but requires knowing in advance the duration of each process.
 >***SJF prioriza los procesos más cortos. Este algoritmo busca minimizar el tiempo de espera promedio, pero requiere conocer de antemano la duración de cada proceso.***
 
