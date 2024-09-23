@@ -63,7 +63,7 @@ This repository contains implementations of different process planning algorithm
 
 ## 📖 Algorithms Included / Algoritmos Incluidos
 
-### [FCFS (First Come First Serve](/FCFS/)
+### [FCFS (First Come First Serve)](/FCFS/)
 The FCFS algorithm serves processes in the order in which they arrive to the system, without interruptions. It is easy to implement, but can lead to high waiting times in some cases.
 >***El algoritmo FCFS atiende los procesos en el orden en que llegan al sistema, sin interrupciones. Es fácil de implementar, pero puede llevar a tiempos de espera elevados en algunos casos.***
 
