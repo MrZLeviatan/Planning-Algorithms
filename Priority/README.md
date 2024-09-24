@@ -66,7 +66,7 @@ This program implements the Priority Scheduling algorithm to simulate process sc
 
 ## 🧩 [Program / Programa](/Priority/Priority.py)
 
-    ```python
+```python
     class Process:
     def __init__(self, id, arrival_time, burst_time, priority):
       
@@ -139,5 +139,5 @@ This program implements the Priority Scheduling algorithm to simulate process sc
     scheduled_processes = priority_scheduling(processes)
     
     print_schedule(scheduled_processes)
-    ```
+```
     
