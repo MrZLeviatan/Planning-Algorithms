@@ -70,7 +70,7 @@ This program implements the HRN algorithm to simulate process sheduling. Given a
 
 ---
 
-## 🧩 [Program / Programa](/SJF/SJF.py)
+## 🧩 [Program / Programa](/HRN/HRN.py)
 
 ```python
 class Proceso:
