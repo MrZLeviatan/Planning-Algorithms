@@ -66,7 +66,7 @@ This program implements the Priority Scheduling algorithm to simulate process sc
 
 ## 🧩 [Program / Programa](/Priority/Priority.py)
 
-    ```python
+```python
     class Process:
     def __init__(self, id, arrival_time, burst_time, priority):
       
@@ -80,7 +80,7 @@ This program implements the Priority Scheduling algorithm to simulate process sc
         self.turnaround_time = 0  
         self.start_time = -1  
 
-def priority_scheduling(processes):
+    def priority_scheduling(processes):
     
     processes.sort(key=lambda x: (x.arrival_time, x.priority))
     
@@ -118,7 +118,7 @@ def priority_scheduling(processes):
 
     return executed_processes  
 
-def print_schedule(processes):
+    def print_schedule(processes):
 
     print("Process | Arrival Time | Burst Time | Priority | Start Time | Completion Time | Waiting Time | Turnaround Time")
     print("--------------------------------------------------------------------------------------------------------------")
@@ -126,7 +126,7 @@ def print_schedule(processes):
     for p in processes:
         print(f"P{p.id}      | {p.arrival_time:<13} | {p.burst_time:<10} | {p.priority:<8} | {p.start_time:<10} | {p.completion_time:<15} | {p.waiting_time:<12} | {p.turnaround_time:<15}")
 
-if __name__ == "__main__":
+    if __name__ == "__main__":
 
     processes = [
         Process(1, 0, 10, 3),  
@@ -139,5 +139,5 @@ if __name__ == "__main__":
     scheduled_processes = priority_scheduling(processes)
     
     print_schedule(scheduled_processes)
-    ```
+```
     
