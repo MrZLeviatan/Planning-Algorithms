@@ -11,7 +11,7 @@ The HRN (Highest Response Ratio Next) algorithm is a non-preemptive process sche
 
 >***El algoritmo HRN (Highest Response Ratio Next) es un algoritmo de planificacion de procesos no preventivo que selecciona el siguiente proceso a ejecutar basandose en el ratio de respuesta. Este ratio se calcula para cada proceso como:***
 
->***        Ratio de Respuesta = Tiempo Espera + Tiempo Rafaga/Tiempo Rafaga       ***
+>        Ratio de Respuesta = Tiempo Espera + Tiempo Rafaga/Tiempo Rafaga     
 
 ---
 
