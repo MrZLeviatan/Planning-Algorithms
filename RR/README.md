@@ -5,7 +5,7 @@ _Round Robin (RR)_
 </h1>
 
 The Round Robin (RR) algorithm is a process scheduling method in operating systems that assigns each process a fixed time slice, known as a "time quantum". If a process does not complete within its quantum, it is preempted and placed at the end of the process queue, allowing the next process to execute. This cycle continues until all processes are completed.
->***El algoritmo Round Robin (RR) es un metodo de planificacion de procesos en sistemas operativos que asigna a cada proceso un tiempo fijo, conocido como "time quantum" durante el cual puede ejecutarse. Si un proceso no finaliza dentro del quantum, se interrumpe y se coloca al final de la cola de procesos, permitiendo que el siguiente proceso en la cola se ejecute. Este ciclo continua hasta que todos los procesos han sido completados.
+>***El algoritmo Round Robin (RR) es un metodo de planificacion de procesos en sistemas operativos que asigna a cada proceso un tiempo fijo, conocido como "time quantum" durante el cual puede ejecutarse. Si un proceso no finaliza dentro del quantum, se interrumpe y se coloca al final de la cola de procesos, permitiendo que el siguiente proceso en la cola se ejecute. Este ciclo continua hasta que todos los procesos han sido completados.***
 
 ---
 
